@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
 <h1 align="center">Hi 👋, I'm Rashad</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
