@@ -16,7 +16,15 @@
 - 💬 Ask me about **Html,Css,Javascript,Php,React,Github and etc.**
 
 - 📫 How to reach me **rashadvaliyev047@gmail.com**
+<div align="center">
+ 
+ 🌱 I’m currently learning **Front-end and Back-end**
 
+ 💬 Ask me about **Html, CSS, JavaScript, Bootstrap5, Node.js, React, Firebase, MongoDB... or anything [here](rashadvaliyev047@gmail.com)**
+
+ - 📫 How to reach me **rashadvaliyev047@gmail.com**
+
+ </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rashad-valiyev-261828253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashad-valiyev-261828253/" height="30" width="40" /></a>
