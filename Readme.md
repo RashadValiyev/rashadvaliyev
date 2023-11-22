@@ -37,7 +37,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashadvaliyev&show_icons=true&locale=en" alt="rashadvaliyev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashadvaliyev&" alt="rashadvaliyev" /></p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=RashadValiyev&&style=flat-square" align="center" />
+</div>  
+  
 
+<br/>  
 <div align="center">
             <a href="https://www.buymeacoffee.com/rashadvaliyev047" target="_blank" style="display: inline-block;">
                 <img
